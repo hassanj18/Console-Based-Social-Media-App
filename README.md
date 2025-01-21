@@ -59,4 +59,3 @@ This application is structured around key OOP concepts:
 6. **Track Activities**: View your recent activities in the app.
 7. **Share Memories**: Access and share your saved memories with friends.
 
-Feel free to customize any section to better fit your application or include additional details as necessary! If you have any questions or need further assistance, let me know!
